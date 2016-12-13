@@ -22,8 +22,12 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
     - http://virtuslab.com/blog/arrows-monads-and-kleisli-part-ii/
     
 - Free Monads
+  - Free Monads are simple
+    - http://underscore.io/blog/posts/2015/04/14/free-monads-are-simple.html
   - Free Monads - what and why?
     - https://softwaremill.com/free-monads/
+  - Free Monads in Scalaz
+    - https://www.chrisstucchio.com/blog/2015/free_monads_in_scalaz.html
   
 #### Scalaz
   - Learning Scalaz - Eugene Yokota - blog series 
