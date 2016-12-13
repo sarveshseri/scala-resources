@@ -19,6 +19,15 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
     - https://github.com/underscoreio/shapeless-guide
     - https://github.com/underscoreio/shapeless-guide/blob/develop/dist/shapeless-guide.pdf
   
+- Category Theory and Scala
+  - [apocalisp blog] (https://apocalisp.wordpress.com/)
+    - On Monads and Monoids
+      - https://apocalisp.wordpress.com/2010/06/14/on-monoids/
+      - https://apocalisp.wordpress.com/2010/07/21/more-on-monoids-and-monads/
+    - Towards an Effect System in Scala
+      - https://apocalisp.wordpress.com/2011/03/20/towards-an-effect-system-in-scala-part-1/
+      - https://apocalisp.wordpress.com/2011/12/19/towards-an-effect-system-in-scala-part-2-io-monad/
+  
   
 - Dependent Types
   - https://github.com/strangeloop/StrangeLoop2013/blob/master/slides/sessions/SabinBrady-ScalaIdris.pdf
