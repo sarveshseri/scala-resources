@@ -4,6 +4,8 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
 #### Beginning Scala
   - The Neophyte's Guide to Scala - Daniel Westheide
     - http://danielwestheide.com/scala/neophytes.html
+    
+#### 
 
 
 #### Function Design Patterns
@@ -83,4 +85,8 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
   - DI in Scala - Cake Pattern - Adam Warski
     - http://www.warski.org/blog/2010/12/di-in-scala-cake-pattern/
   - https://medium.com/@itseranga/scala-cake-pattern-e0cd894dae4e#.ca93ynh3b
+  
+#### Railway oriented programming
+  - Although it is not Scala, its easy to understand and very relevant
+    - http://fsharpforfunandprofit.com/posts/recipe-part2
   
