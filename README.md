@@ -11,7 +11,9 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
     - http://typeclassopedia.bitbucket.org/
   - The Essence of Functional Structures - Skills Matter advanced video
     - https://skillsmatter.com/skillscasts/8970-the-essence-of-functional-structures
-  
+  - Arrow, Monads and Kleisli
+    - http://virtuslab.com/blog/arrows-monads-and-kleisli-part-i/
+    - http://virtuslab.com/blog/arrows-monads-and-kleisli-part-ii/
   
 #### Scalaz
   - Learning Scalaz - Eugene Yokota - blog series 
