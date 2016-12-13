@@ -1,8 +1,11 @@
 # scala-resources
 A collection of Scala Resources aiming to provide a smoother learning path for Scala programmers
 
-#### Typeclassopedia
-  - http://typeclassopedia.bitbucket.org/
+#### Function Design Patterns
+  -Typeclassopedia
+    - http://typeclassopedia.bitbucket.org/
+  - The Essence of Functional Structures - Skills Matter advanced video
+    - https://skillsmatter.com/skillscasts/8970-the-essence-of-functional-structures
   
   
 #### Scalaz
@@ -18,9 +21,11 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
 
 
 #### Shapeless
-  - A Type Astronauts Guide to Shapeless
+  - A Type Astronauts Guide to Shapeless - Dave Gurnell - eBook
     - https://github.com/underscoreio/shapeless-guide
     - https://github.com/underscoreio/shapeless-guide/blob/develop/dist/shapeless-guide.pdf
+  - Establishing Orbit with Shapeless - Dave Gurnell - Skills Matter beginner video
+    - https://skillsmatter.com/skillscasts/9136-establishing-orbit-with-shapeless
     
 #### Higher Order blog 
   - http://blog.higher-order.com/
