@@ -43,6 +43,8 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
 #### Cats
   - Herding Cats - Eugene Yokota - blog series
     - http://eed3si9n.com/herding-cats/
+  - Shapeless, Cats and kittens - iHeartRadio - presentation slide
+    - http://slides.com/kailuowang/deck-5-3#/
 
 
 #### Shapeless
