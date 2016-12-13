@@ -4,8 +4,6 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
 #### Beginning Scala
   - The Neophyte's Guide to Scala - Daniel Westheide
     - http://danielwestheide.com/scala/neophytes.html
-    
-#### 
 
 
 #### Functional Design Patterns
@@ -22,6 +20,10 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
   - Arrow, Monads and Kleisli
     - http://virtuslab.com/blog/arrows-monads-and-kleisli-part-i/
     - http://virtuslab.com/blog/arrows-monads-and-kleisli-part-ii/
+    
+- Free Monads
+  - Free Monads - what and why?
+    - https://softwaremill.com/free-monads/
   
 #### Scalaz
   - Learning Scalaz - Eugene Yokota - blog series 
