@@ -69,6 +69,8 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
 #### Dependency Injection in Scala
   - DI in Scala using MacWire
     - http://di-in-scala.github.io/
+  - Thin Cake Pattern
+    - http://www.warski.org/blog/2014/02/using-scala-traits-as-modules-or-the-thin-cake-pattern/
   - Real-World Scala: Dependency Injection (di) - Jonas Bonér
     - http://jonasboner.com/real-world-scala-dependency-injection-di/
   - DI in Scala - Cake Pattern - Adam Warski
