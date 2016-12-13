@@ -57,6 +57,10 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
     - https://github.com/underscoreio/shapeless-guide/blob/develop/dist/shapeless-guide.pdf
   - Establishing Orbit with Shapeless - Dave Gurnell - Skills Matter beginner video
     - https://skillsmatter.com/skillscasts/9136-establishing-orbit-with-shapeless
+  - Shapeless Futures
+    - https://blog.scalac.io/2015/10/15/shapeless-and-futures.html
+  - Shapeless Monads
+    - https://blog.scalac.io/2015/10/22/shapeless-and-monads.html
   - First-class polymorphic function values in Shapeless - Miles Sabin - blog
     - http://milessabin.com/blog/2012/04/27/shapeless-polymorphic-function-values-1/
     - http://milessabin.com/blog/2012/05/10/shapeless-polymorphic-function-values-2/
