@@ -1,6 +1,11 @@
 # scala-resources
 A collection of Scala Resources aiming to provide a smoother learning path for Scala programmers
 
+#### Beginning Scala
+  - The Neophyte's Guide to Scala - Daniel Westheide
+    - http://danielwestheide.com/scala/neophytes.html
+
+
 #### Function Design Patterns
   - Typeclassopedia
     - http://typeclassopedia.bitbucket.org/
