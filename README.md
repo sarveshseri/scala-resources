@@ -26,6 +26,8 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
     - https://softwaremill.com/beautiful-folds-in-scala/
     
 - Free Monads
+  - Overview of Free Monads in Cats
+    - https://blog.scalac.io/2016/06/02/overview-of-free-monad-in-cats.html
   - Free Monads are simple
     - http://underscore.io/blog/posts/2015/04/14/free-monads-are-simple.html
   - Free Monads - what and why?
@@ -45,6 +47,8 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
     - http://eed3si9n.com/herding-cats/
   - Shapeless, Cats and kittens - iHeartRadio - presentation slide
     - http://slides.com/kailuowang/deck-5-3#/
+  - Handling failures using Xor and Validated
+    - https://blog.scalac.io/2016/10/20/handling-failure-using-xor-and-validated-datatypes.html
 
 
 #### Shapeless
