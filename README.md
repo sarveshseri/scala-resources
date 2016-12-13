@@ -57,6 +57,8 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
     - https://github.com/underscoreio/shapeless-guide/blob/develop/dist/shapeless-guide.pdf
   - Establishing Orbit with Shapeless - Dave Gurnell - Skills Matter beginner video
     - https://skillsmatter.com/skillscasts/9136-establishing-orbit-with-shapeless
+  - Type Classes + Shapeless = Leaner, Cleaner Code
+    - https://skillsmatter.com/skillscasts/9207-type-classes-shapeless-leaner-cleaner-code
   - Shapeless Futures
     - https://blog.scalac.io/2015/10/15/shapeless-and-futures.html
   - Shapeless Monads
