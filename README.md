@@ -6,12 +6,15 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
   
   
 - Scalaz
-  - Eugene Yokota - blog series - http://eed3si9n.com/learning-scalaz/
-  - Rúnar Bjarnason - presentation video - https://www.infoq.com/presentations/Scalaz-Functional-Programming-in-Scala
+  - Learning Scalaz - Eugene Yokota - blog series 
+    - http://eed3si9n.com/learning-scalaz/
+  - Rúnar Bjarnason - presentation video 
+    - https://www.infoq.com/presentations/Scalaz-Functional-Programming-in-Scala
   
   
 - Cats
-  - Eugene Yokota - blog series - http://eed3si9n.com/herding-cats/
+  - Herding Cats - Eugene Yokota - blog series
+    - http://eed3si9n.com/herding-cats/
 
 
 - Shapeless
@@ -52,7 +55,9 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
   
   
 - Dependency Injection in Scala
-  - real-world scala: dependency injection (di) - Jonas Bonér
+  - Real-World Scala: Dependency Injection (di) - Jonas Bonér
     - http://jonasboner.com/real-world-scala-dependency-injection-di/
+  - DI in Scala - Cake Pattern - Adam Warski
+    - http://www.warski.org/blog/2010/12/di-in-scala-cake-pattern/
   - https://medium.com/@itseranga/scala-cake-pattern-e0cd894dae4e#.ca93ynh3b
   
