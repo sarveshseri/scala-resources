@@ -22,7 +22,8 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
     - https://github.com/underscoreio/shapeless-guide
     - https://github.com/underscoreio/shapeless-guide/blob/develop/dist/shapeless-guide.pdf
     
-- [Higher Order blog] (http://blog.higher-order.com/)
+#### Higher Order blog 
+  - http://blog.higher-order.com/
   - Monoid
     - http://blog.higher-order.com/blog/2014/03/19/monoid-morphisms-products-coproducts/
   - Free Monands
@@ -35,7 +36,8 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
     - http://blog.higher-order.com/blog/2015/09/30/the-adjunction-that-induces-the-reader-monad/
     
   
-#### [Apocalisp blog] (https://apocalisp.wordpress.com/)
+#### Apocalisp blog 
+  - https://apocalisp.wordpress.com/
   - Type-Level Programming in Scala
     - https://apocalisp.wordpress.com/2010/06/08/type-level-programming-in-scala/
   - On Monads and Monoids
