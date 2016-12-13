@@ -31,10 +31,10 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
     - https://github.com/underscoreio/shapeless-guide/blob/develop/dist/shapeless-guide.pdf
   - Establishing Orbit with Shapeless - Dave Gurnell - Skills Matter beginner video
     - https://skillsmatter.com/skillscasts/9136-establishing-orbit-with-shapeless
-  - First-class polymorphic function values in Shapeless
+  - First-class polymorphic function values in Shapeless - Miles Sabin - blog
     - Function values in Scala -> http://milessabin.com/blog/2012/04/27/shapeless-polymorphic-function-values-1/
     - Natural Transformations in Scala -> http://milessabin.com/blog/2012/05/10/shapeless-polymorphic-function-values-2/
-  - Type-level selection sort in shapeless
+  - Type-level selection sort in shapeless - Miles Sabin - blog
     http://milessabin.com/blog/2012/01/27/type-level-sorting-in-shapeless/
     
 #### Higher Order blog 
