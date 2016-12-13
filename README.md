@@ -95,7 +95,7 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
 #### Others
   - Run Wild Run Free - A team's journey in Scala
     - https://speakerdeck.com/raulraja/run-wild-run-free
-  -Railway oriented programming
+  - Railway oriented programming
     - Although it is not Scala, its easy to understand and very relevant
     - http://fsharpforfunandprofit.com/posts/recipe-part2
   
