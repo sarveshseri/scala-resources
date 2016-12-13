@@ -92,7 +92,10 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
     - http://www.warski.org/blog/2010/12/di-in-scala-cake-pattern/
   - https://medium.com/@itseranga/scala-cake-pattern-e0cd894dae4e#.ca93ynh3b
   
-#### Railway oriented programming
-  - Although it is not Scala, its easy to understand and very relevant
+#### Others
+  - Run Wild Run Free - A team's journey in Scala
+    - https://speakerdeck.com/raulraja/run-wild-run-free
+  -Railway oriented programming
+    - Although it is not Scala, its easy to understand and very relevant
     - http://fsharpforfunandprofit.com/posts/recipe-part2
   
