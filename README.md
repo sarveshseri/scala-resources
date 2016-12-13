@@ -50,3 +50,9 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
 - Some other Category Theory recsources
   - https://github.com/strangeloop/StrangeLoop2013/blob/master/slides/sessions/Pajer-CategoryTheory.pdf
   
+  
+- Dependency Injection in Scala
+  - real-world scala: dependency injection (di) - Jonas Bonér
+    - http://jonasboner.com/real-world-scala-dependency-injection-di/
+  - https://medium.com/@itseranga/scala-cake-pattern-e0cd894dae4e#.ca93ynh3b
+  
