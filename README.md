@@ -13,7 +13,9 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
     - http://typeclassopedia.bitbucket.org/
   - The Essence of Functional Structures - Skills Matter advanced video
     - https://skillsmatter.com/skillscasts/8970-the-essence-of-functional-structures
-  - Scala Type-class Hierarchy - Tony Moriss
+  - Functor in Scala - Tony Morris
+    - http://blog.tmorris.net/posts/functors-and-things-using-scala/index.html
+  - Scala Type-class Hierarchy - Tony Morris
     - http://blog.tmorris.net/posts/scala-type-class-hierarchy/index.html
   - Functional composition with Monads, Kleisli and Functors
     - http://www.leonardoborges.com/writings/2014/06/17/functional-composition-with-monads-kleisli-functors/
