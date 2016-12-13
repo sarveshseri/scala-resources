@@ -26,7 +26,7 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
     - http://blog.higher-order.com/blog/2013/08/20/free-monads-and-free-monoids/
     - http://blog.higher-order.com/blog/2013/11/01/free-and-yoneda/
     - http://blog.higher-order.com/blog/2015/10/12/freedom-and-forgetfulness/
-  - Commands in Scala
+  - Co-monads in Scala
     - http://blog.higher-order.com/blog/2015/06/23/a-scala-comonad-tutorial/
     - http://blog.higher-order.com/blog/2015/10/04/scala-comonad-tutorial-part-2/
     - http://blog.higher-order.com/blog/2015/09/30/the-adjunction-that-induces-the-reader-monad/
