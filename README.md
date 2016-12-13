@@ -8,7 +8,7 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
 #### 
 
 
-#### Function Design Patterns
+#### Functional Design Patterns
   - Typeclassopedia
     - http://typeclassopedia.bitbucket.org/
   - The Essence of Functional Structures - Skills Matter advanced video
