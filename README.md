@@ -94,9 +94,13 @@ A collection of Scala Resources aiming to provide a smoother learning path for S
     - https://apocalisp.wordpress.com/2011/03/20/towards-an-effect-system-in-scala-part-1/
     - https://apocalisp.wordpress.com/2011/12/19/towards-an-effect-system-in-scala-part-2-io-monad/
   
-  
+#### Existential Types Or Abstract Type Members
+  - https://www.youtube.com/watch?v=6j5kZj17aUw&index=62&list=PLLMLOC3WM2r5Ei2mnSHCD-ZD04AXovttL
+
 #### Dependent Types
   - https://github.com/strangeloop/StrangeLoop2013/blob/master/slides/sessions/SabinBrady-ScalaIdris.pdf
+  
+  
   
 
 #### Some other Category Theory recsources
